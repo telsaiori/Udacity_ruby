@@ -1,0 +1,4 @@
+I always wondering if I can really become a programmer. I have a lot of friend who is a programmer but they seems diffrenet with me.
+I mean, they like to code when they are a teenager(or maybe even earlier) and seems they also has talent for programming.
+
+I also wondering it will take how long to learn so I can use ruby(or rails) to find a job.
